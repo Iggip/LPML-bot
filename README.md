@@ -1,7 +1,16 @@
 # LPML-bot
 A discord bot that can make roll calls and print homework. It was originally developed for the SAS server, but now everything is complicated (chil).
 
-# iNSTUCTION:
+# INSTALL
+git clone https://github.com/CoderBogdasha/LPML-bot/
+
+cd LPML-bot/
+
+pip install requests
+
+python bot.py
+
+# iNSTUCTION
 use command:
 
 /homework - to print all homeworks
