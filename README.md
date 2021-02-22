@@ -6,7 +6,7 @@ git clone https://github.com/CoderBogdasha/LPML-bot/
 
 cd LPML-bot/
 
-pip install requests
+pip install -r requirements.txt
 
 python bot.py
 
